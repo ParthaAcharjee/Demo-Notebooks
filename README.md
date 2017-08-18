@@ -15,4 +15,6 @@ Implementaion of Linear Regression in TensorFlow.
 #### Logistic Regression in TensorFlow.ipynb
 Classify MNIST dataset in tensorFlow using logistic regression.
 #### Multi-layer percepton in Tensorflow.ipynb 
-Implementation of MLP in tensorFlow  [Open]('Multi-layer percepton in Tensorflow.ipynb')
+Implementation of MLP in tensorFlow
+### MLP displayed on Tensorboard .ipynb
+Display MLP on tensorboard [open](https://github.com/ParthaAcharjee/Demo-Notebooks/blob/master/MLP%20displayed%20on%20Tensorboard%20.ipynb)
