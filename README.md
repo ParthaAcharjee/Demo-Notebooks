@@ -14,5 +14,5 @@ In these notebooks, I implement different machine learning algorithms in tensorF
 Implementaion of Linear Regression in TensorFlow.
 #### Logistic Regression in TensorFlow.ipynb
 Classify MNIST dataset in tensorFlow using logistic regression.
-#### Multi-layer percepton in Tensorflow.ipynb [open](Multi-layer percepton in Tensorflow.ipynb)
-Implementation of MLP in tensorFlow
+#### Multi-layer percepton in Tensorflow.ipynb 
+Implementation of MLP in tensorFlow [open](Multi-layer percepton in Tensorflow.ipynb)
